@@ -1,8 +1,0 @@
-> Fix yellow tree XP (it's 14 instead of 33)
-> Change XP rate to 1.1105 instead of 1.1
-> Add text above objects
-> Remove the dialog asking if you want to perform the action
-> Make sound effects louder
-> Try and find a way to rotate player while NOT following its direction (when you're in mid air.)
-> Make ESC the pause button instead of P
-> When you press P, show the inventory and skills
